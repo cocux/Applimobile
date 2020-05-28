@@ -1,9 +1,9 @@
-# Aubergine project : API AOE - Age Of Empire
+# Projet Prog Mobile : API AOE - Age Of Empire
 
-Cette application mobile a été réalisée dans le cadre d'un projet en 3ème année à l'ESIEA Ivry, grâce à **Android Studio**.
+Cette application mobile a été réalisée dans le cadre d'un projet en 3ème année à l'ESIEA, grâce à **Android Studio**.
 Ainsi, elle permet de lister les civilisations du jeu **Age of Empire** (ou AOE), chargées grâce à un appel à une **API Rest** et à **RecyclerView**.
 
-Le **GitFlow** contient deux branches : master (pour la version finale) et developper (versions intermédiaires)
+Le **GitFlow** contient une branche master contenant la version finale
 
 ## Présentation
 
@@ -17,15 +17,15 @@ Il est possible de naviguer dans l'application grâce à 3 activités/écrans :
 
 Ci-dessous, l'écran d'accueil :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459458-capture-d-ecran-2019-04-05-a-11-51-02.png">
+<img src="https://zupimages.net/viewer.php?id=20/22/fat7.jpg">
 </p>
 
 Ci dessous, MyActivity (charge le RecyclerView) :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459458-capture-d-ecran-2019-04-05-a-11-51-13.png">
+<img src="https://zupimages.net/viewer.php?id=20/22/wjq6.jpg">
 </p>
 
 Ci-dessous, DetailsActivity (affiche les informations de la civilisation sélectionnée) :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459465-capture-d-ecran-2019-04-05-a-11-53-10.png">
+<img src="https://zupimages.net/viewer.php?id=20/22/eeo9.jpg">
 </p>
