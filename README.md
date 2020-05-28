@@ -22,10 +22,10 @@ Ci-dessous, l'écran d'accueil :
 
 Ci dessous, MyActivity (charge le RecyclerView) :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=20/22/wjq6.jpg">
+<a href="https://zupimages.net/viewer.php?id=20/22/wjq6.jpg"><img src="https://zupimages.net/up/20/22/wjq6.jpg" alt="" height="315" width="180" /></a>
 </p>
 
 Ci-dessous, DetailsActivity (affiche les informations de la civilisation sélectionnée) :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=20/22/eeo9.jpg">
+<a href="https://zupimages.net/viewer.php?id=20/22/eeo9.jpg"><img src="https://zupimages.net/up/20/22/eeo9.jpg" alt="" height="315" width="180" /></a>
 </p>
