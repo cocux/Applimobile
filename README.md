@@ -17,7 +17,7 @@ Il est possible de naviguer dans l'application grâce à 3 activités/écrans :
 
 Ci-dessous, l'écran d'accueil :
 <p align="center">
-<a href="https://zupimages.net/viewer.php?id=20/22/fat7.jpg"><img src="https://zupimages.net/up/20/22/fat7.jpg" alt="" height="210" width="120" /></a>
+<a href="https://zupimages.net/viewer.php?id=20/22/fat7.jpg"><img src="https://zupimages.net/up/20/22/fat7.jpg" alt="" height="315" width="180" /></a>
 </p>
 
 Ci dessous, MyActivity (charge le RecyclerView) :
