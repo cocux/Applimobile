@@ -15,17 +15,17 @@ Il est possible de naviguer dans l'application grâce à 3 activités/écrans :
 
 ## Images
 
-Ci-dessous, l'écran d'accueil :
+Ecran d'accueil :
 <p align="center">
 <a href="https://zupimages.net/viewer.php?id=20/22/fat7.jpg"><img src="https://zupimages.net/up/20/22/fat7.jpg" alt="" height="315" width="180" /></a>
 </p>
 
-Ci dessous, MyActivity (charge le RecyclerView) :
+MyActivity (charge le RecyclerView) :
 <p align="center">
 <a href="https://zupimages.net/viewer.php?id=20/22/wjq6.jpg"><img src="https://zupimages.net/up/20/22/wjq6.jpg" alt="" height="315" width="180" /></a>
 </p>
 
-Ci-dessous, DetailsActivity (affiche les informations de la civilisation sélectionnée) :
+DetailsActivity (affiche les informations de la civilisation sélectionnée) :
 <p align="center">
 <a href="https://zupimages.net/viewer.php?id=20/22/eeo9.jpg"><img src="https://zupimages.net/up/20/22/eeo9.jpg" alt="" height="315" width="180" /></a>
 </p>
